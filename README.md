@@ -8,6 +8,7 @@
 -->
 
 # Communicate using Markdown
+# this is how we add h1 header with markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
